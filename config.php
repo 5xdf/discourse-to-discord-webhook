@@ -32,7 +32,7 @@ $discourse_payload_secret = '';
 $discourse_url_protocol = 'https';
 
 // Discourse domain (e.g., "critcola.com").
-$discourse_url_domain = '';
+$discourse_url_domain = 'cavmforum.nbur21.xyz';
 
 // Discourse path (e.g., "/community/", if you use Discourse in a subdirectory). If you don't know what this is, don't change it.
 $discourse_path = '/';
